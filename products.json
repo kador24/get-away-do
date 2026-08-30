@@ -124,8 +124,8 @@
       "old_price": 200000,
       "category": "iphone",
       "type": "phone",
-      "stock": 1,
-      "condition_score": 10,
+      "stock": 200058565664656,
+      "condition_score": 9,
       "status": "available",
       "images": [
         "https://images.unsplash.com/photo-1678685888221-cda773a3dcdb?w=400",
@@ -139,6 +139,12 @@
           "rating": 5,
           "comment": "آيفون أصلي مئة بالمئة، أنصح بالتعامل",
           "date": "2026-08-18"
+        },
+        {
+          "name": "دحمان عيسى",
+          "rating": 5,
+          "comment": "عن جد واو اوميقات",
+          "date": "2026-08-30"
         }
       ]
     },
