@@ -96,8 +96,8 @@
       "condition_score": 9,
       "status": "available",
       "images": [
-        "https://images.unsplash.com/photo-1610945265078-3858a0b5d8f4?w=400",
-        "https://images.unsplash.com/photo-1610945264803-c22b62d2a7b3?w=400"
+        "https://images.unsplash.com/photo-1610945264803-c22b62d2a7b3?w=400",
+        "images/img_1788112128142_lho7bk.png"
       ],
       "delivery_available": true,
       "created_at": "2026-08-20T10:00:00Z",
