@@ -1,0 +1,16 @@
+{
+  "name": "algeria-jobs-channel-bot",
+  "version": "2.0.0",
+  "description": "بوت إرسال وظائف جديدة لقناة تليجرام بشكل احترافي",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "node src/main.js",
+    "scrape": "node src/main.js --once"
+  },
+  "dependencies": {
+    "axios": "^1.7.7",
+    "cheerio": "^1.0.0",
+    "node-cron": "^3.0.3",
+    "node-telegram-bot-api": "^0.66.0"
+  }
+}

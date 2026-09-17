@@ -1,0 +1,17 @@
+{
+  "telegramBotToken": "8572254628:AAGzuouF9gV6HSVIa8Ty4GkucfIqtLnkFAI",
+  "channelId": "-1004488637346",
+  "adminChatId": "6285454698",
+  "scrapeInterval": "0 */4 * * *",
+  "enabledSites": ["emploitic", "bayt", "ouedkniss", "bebee", "jobsdz"],
+  "keywords": [
+    "ديبلوم", "ليسانس", "bac+2", "bac+3", "TS", "تقني سامي",
+    "محاسب", "سكرتير", "سكرتارية", "إداري", "إعلام آلي",
+    "موارد بشرية", "تسويق", "مبيعات", "تجاري", "صيانة",
+    "تمريض", "مخبر", "كهرباء", "ميكانيك", "لوجستيك"
+  ],
+  "maxJobsPerRun": 15,
+  "delayBetweenSitesMs": 4000,
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+  "logoPath": "assets/logo.jpg"
+}

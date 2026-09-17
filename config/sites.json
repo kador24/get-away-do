@@ -1,0 +1,37 @@
+[
+  {
+    "code": "emploitic",
+    "name": "Emploitic",
+    "url": "https://www.emploitic.com/offres-d-emploi",
+    "jobSelector": "a[href*='/offres-d-emploi/'], .job-title a, h2 a, h3 a",
+    "baseUrl": "https://www.emploitic.com"
+  },
+  {
+    "code": "bayt",
+    "name": "بيت.كوم",
+    "url": "https://www.bayt.com/ar/algeria/jobs/",
+    "jobSelector": "h2 a, .jb-title a, a[data-js-aid='jobID']",
+    "baseUrl": "https://www.bayt.com"
+  },
+  {
+    "code": "ouedkniss",
+    "name": "واد كنيس",
+    "url": "https://www.ouedkniss.com/emploi_offres/1",
+    "jobSelector": "a[href*='/emploi'], .announcement a, h2 a, h3 a",
+    "baseUrl": "https://www.ouedkniss.com"
+  },
+  {
+    "code": "bebee",
+    "name": "BeBee",
+    "url": "https://bebee.com/dz/jobs",
+    "jobSelector": "a[href*='/job/'], h2 a, .job-title a",
+    "baseUrl": "https://bebee.com"
+  },
+  {
+    "code": "jobsdz",
+    "name": "JobsDZ",
+    "url": "https://jobsdz.com/ar/",
+    "jobSelector": "a[href*='job'], h2 a, .post-title a, article a",
+    "baseUrl": "https://jobsdz.com"
+  }
+]
